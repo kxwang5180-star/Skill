@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Online Sheets"
+  short_description: "Publish local CSV/XLSX data into fixed Feishu Sheets or Bitable targets."
+  default_prompt: "将本地 CSV 或 XLSX 数据发布、覆盖或刷新到固定飞书在线表格。"
