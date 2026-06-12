@@ -4,9 +4,9 @@ This repository stores reusable Codex skills created for Feishu/PMO workflows.
 
 ## Skills
 
-- `skills/feishu-demand-inspection` - Generate PMO inspection reports for 信息科技部需求 work items.
-- `skills/feishu-online-docs` - Publish Markdown/report content to Feishu online documents.
-- `skills/feishu-online-sheets` - Publish CSV/XLSX data to fixed Feishu Sheets or Base/Bitable tables.
+- `feishu-demand-inspection` - Generate PMO inspection reports for 信息科技部需求 work items.
+- `feishu-online-docs` - Publish Markdown/report content to Feishu online documents.
+- `feishu-online-sheets` - Publish CSV/XLSX data to fixed Feishu Sheets or Base/Bitable tables.
 
 ## Notes
 
