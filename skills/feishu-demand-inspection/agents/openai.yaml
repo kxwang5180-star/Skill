@@ -1,4 +1,0 @@
-interface:
-  display_name: "Feishu Demand Inspection"
-  short_description: "Generate PMO inspection reports for 信息科技部需求 work items."
-  default_prompt: "按固定巡查模板生成信息科技部需求工作项的周度或月度 PMO 巡查报告。"
