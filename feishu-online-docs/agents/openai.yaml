@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Online Docs"
+  short_description: "Create Feishu cloud documents from Markdown or report content."
+  default_prompt: "将本地报告或对话内容发布为飞书在线文档，并返回文档链接。"
